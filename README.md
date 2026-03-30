@@ -19,7 +19,7 @@ The aim of this project is to develop a comprehensive Digital Literacy Portfolio
 ## Project Deliverables
 - **GitHub Repository:** Centralized folder structure including all tasks, screenshots, and reports.  
 - **README.md:** Overview of the project, module summaries, and links.  
-- **Project Report (.docx/.pdf):** Documenting work, observations, and reflections on all five tasks.  
+- **Project Report (.docx/.pdf):** a document involving the reflections of the tasks. 
 
 ---
 
